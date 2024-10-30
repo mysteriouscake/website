@@ -6,3 +6,11 @@
     padding: 20px 250px 20px 250px;
     z-index: 2;
 }
+.links{
+    font-size: 50px;
+    font-family: "Noto Sans";
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px 250px 20px 250px;
+    z-index: 2;
+}
